@@ -87,7 +87,6 @@ void remove(node*& head, int index) {
 
     node* pre = head;
 
-    // رفتن به نود قبل از نودی که باید حذف شود
     for (int i = 0; i < index - 1; i++) {
         if (pre == nullptr || pre->next == nullptr) {
             cout << "Index out of range!" << endl;
@@ -95,8 +94,7 @@ void remove(node*& head, int index) {
         }
         pre = pre->next;
     }
-
-    // اگر نود مورد نظر وجود نداشته باشد
+    
     if (pre->next == nullptr) {
         cout << "Index out of range!" << endl;
         return;
