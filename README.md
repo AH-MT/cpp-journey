@@ -9,44 +9,41 @@ A personal repository dedicated to my progress in mastering **C++**. This space 
 
 ## Progress Tracker
 
+### 1. Fundamentals & OOP
 - [x] Basic Syntax & Control Flow (Loops, If-Else)
 - [x] Functions & Scope
 - [x] Pointers & References
 - [x] Recursion & Backtracking
 - [x] OOP (Object Oriented Programming)
-- [x] Memory Management
-- [ ] STL (Standard Template Library)
-- [ ] Smart Pointers (unique_ptr, shared_ptr, weak_ptr)
-- [ ] Multithreading & Concurrency
-- [ ] Move Semantics & R-value References
-- [ ] Design Patterns (Basic Patterns)
+- [x] Memory Management (Dynamic Allocation, Rule of 3/5/0)
 
-## Advanced Progress Tracker
-### Core Modern C++
+### 2. Standard Library & Modern C++ Core
 - [ ] STL (Standard Template Library - Containers, Iterators, Algorithms)
 - [ ] Lambda Expressions & Functors
-- [ ] Smart Pointers (`std::unique_ptr`, `std::shared_ptr`, `std::weak_ptr`)
-- [ ] Move Semantics & R-value References (Move Constructor, `std::move`)
 - [ ] Type Deduction (`auto`, `decltype`) & Structured Binding
 
-### Advanced Concepts & Performance
+### 3. Advanced Memory & Performance
+- [ ] Smart Pointers (`std::unique_ptr`, `std::shared_ptr`, `std::weak_ptr`)
+- [ ] Move Semantics & R-value References (Move Constructor, `std::move`)
 - [ ] Compile-time Programming (`constexpr`, `consteval`)
+
+### 4. Concurrency & Advanced Concepts
 - [ ] Multithreading & Concurrency (`std::thread`, `std::mutex`, Atomics)
 - [ ] Exception Handling & RAII Idiom
 - [ ] Modern Template Metaprogramming (Concepts & Constraints - C++20)
 
-### Data Structures & Algorithms
+### 5. Data Structures & Algorithms
 - [ ] Queue, Deque & Circular Buffers
 - [ ] Trees (Binary Search Tree, AVL Tree)
 - [ ] Graphs (BFS, DFS, Dijkstra Algorithm)
 - [ ] Dynamic Programming & Greedy Algorithms
 
-### Software Design & Architecture
+### 6. Software Design & Architecture
 - [ ] Design Patterns - Creational (Singleton, Factory)
 - [ ] Design Patterns - Structural (Adapter, Decorator)
 - [ ] Design Patterns - Behavioral (Observer, Strategy)
 
-### Tools & Engineering Practices
+### 7. Tools & Engineering Practices
 - [ ] Build Systems (CMake Configuration)
 - [ ] Unit Testing (Google Test / GTest)
 - [ ] Memory Profiling & Debugging (Valgrind, AddressSanitizer)
