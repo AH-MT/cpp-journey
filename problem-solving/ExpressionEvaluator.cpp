@@ -1,3 +1,18 @@
+/*
+ * Project: Mathematical Expression Evaluator (Prefix, Infix, Postfix)
+ * Author: [َAH_MT]
+ * Date: 2026-07-29
+ * 
+ * --- Problem Description ---
+ * This program validates and evaluates mathematical expressions in three formats:
+ * 1. Prefix (e.g., + 2 2)
+ * 2. Infix (e.g., 2 + 2)
+ * 3. Postfix (e.g., 2 2 +)
+ * 
+ * The system checks formatting errors (bracket balance, token adjacency),
+ * converts valid expressions to Postfix if needed, and evaluates the final result.
+ * If the input is invalid, it prints "Invalid Input".
+ */
 #include <iostream>
 #include <stack>
 #include <string>
