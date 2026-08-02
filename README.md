@@ -18,7 +18,7 @@ A personal repository dedicated to my progress in mastering **C++**. This space 
 - [x] Memory Management (Dynamic Allocation, Rule of 3/5/0)
 
 ### 2. Standard Library & Modern C++ Core
-- [ ] STL (Standard Template Library - Containers, Iterators, Algorithms)
+- [x] STL (Standard Template Library - Containers, Iterators, Algorithms)
 - [ ] Lambda Expressions & Functors
 - [ ] Type Deduction (`auto`, `decltype`) & Structured Binding
 
