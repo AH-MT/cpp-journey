@@ -19,8 +19,8 @@ A personal repository dedicated to my progress in mastering **C++**. This space 
 
 ### 2. Standard Library & Modern C++ Core
 - [x] STL (Standard Template Library - Containers, Iterators, Algorithms)
-- [ ] Lambda Expressions & Functors
-- [ ] Type Deduction (`auto`, `decltype`) & Structured Binding
+- [x] Lambda Expressions & Functors
+- [x] Type Deduction (`auto`, `decltype`) & Structured Binding
 
 ### 3. Advanced Memory & Performance
 - [ ] Smart Pointers (`std::unique_ptr`, `std::shared_ptr`, `std::weak_ptr`)
